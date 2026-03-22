@@ -29,20 +29,16 @@ This project presents an in-depth analysis of IMDb movie data using an interacti
 - Certificate-wise movie distribution  
 - Detailed movie-level insights (title, genre, rating, duration, votes)  
 
-## 🖼️ Dashboard Preview
-![Dashboard](add-your-screenshot-here.png)
-
 ## 🚀 How to Use
 1. Open the Tableau workbook file (.twbx)  
 2. Interact with filters and visualizations  
 3. Explore trends across genres, years, and ratings  
 
 ## 🔗 Live Dashboard
-https://public.tableau.com/app/profile/tadepalli.haneesh/viz/your-dashboard-link
-
+[https://public.tableau.com/app/profile/tadepalli.haneesh/viz/dashboard-link
+](https://public.tableau.com/app/profile/tadepalli.haneesh/viz/1920to2020MoviesDataAnalysisUsingIMDbRatings/Dashboard1)
 ## 🔗 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-username  
-- 💻 GitHub: https://github.com/your-username  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/your-username ](https://www.linkedin.com/in/haneeshtadepalli/) 
+- 📧 Email: haneeshtadepalli@gmail.com 
 
 ---
